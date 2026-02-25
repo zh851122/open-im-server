@@ -36,7 +36,7 @@ circuitBreaker:
 
 object:
   # Use MinIO as object storage, or set to "cos", "oss", "kodo", "aws", while also configuring the corresponding settings
-  enable: minio
+  enable: cos
   cos:
     bucketURL: https://temp-1252357374.cos.ap-chengdu.myqcloud.com
     secretID: 
