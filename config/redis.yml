@@ -1,6 +1,6 @@
 address: [127.0.0.1:6379]
 username:
-password: 1qaz2wsx12
+password: 1qaz2wsx
 # redis Mode, including "standalone","cluster","sentinel"
 redisMode: "standalone"
 db: 0
